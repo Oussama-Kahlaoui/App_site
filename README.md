@@ -18,7 +18,7 @@ Welcome to the **Hiking App Website**! This project is designed to provide an en
 
 ## Screenshots
 
-![Sample Site Screenshot](img/hiking.png)
+![Sample Site Screenshot](img/explore.png)
 
 ## Getting Started
 
